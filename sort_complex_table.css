@@ -1,0 +1,18 @@
+
+table.tablesorter thead .tablesorter-header, .sort_complex {
+    cursor: pointer;
+    background-image: url('images/bg.png');
+    background-repeat: no-repeat;
+    background-position: center right;
+}
+
+table.tablesorter thead .tablesorter-headerDesc, .sort_complexDesc{
+    background-image: url('images/asc.png');
+    background-repeat: no-repeat;
+    background-position: center right;
+}
+table.tablesorter thead .tablesorter-headerAsc, .sort_complexAsc{
+    background-image: url('images/desc.png');
+    background-repeat: no-repeat;
+    background-position: center right;
+}
